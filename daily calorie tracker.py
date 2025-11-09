@@ -1,6 +1,6 @@
 # Daily Calorie Tracker
 # Author: PRIYANSHU PANDEY
-import datetime  # For timestamp in bonus task
+import datetime  
 
 def main():
     # Task 1: Welcome Message
